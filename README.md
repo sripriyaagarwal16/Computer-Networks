@@ -19,7 +19,7 @@ Study all layers briefly:
 - TCP/IP Model: 4 or 5 layers  
 - Compare differences between OSI vs TCP/IP
 
-👉 These models are essential — every networking question refers back to them. :contentReference[oaicite:0]{index=0}
+👉 These models are essential — every networking question refers back to them.
 
 ### 🌐 3. IP Addressing & Subnetting
 - IPv4 vs IPv6  
@@ -30,24 +30,24 @@ Study all layers briefly:
 ### 📦 4. Transport Layer Protocols
 - TCP vs UDP  
 - 3-way handshake (TCP)  
-- Ports and sockets basics :contentReference[oaicite:1]{index=1}
+- Ports and sockets basics 
 
 ### 📺 Recommended Videos — Day 1
 #### 🎥 Crash & Core Fundamentals
 - **Crash Course Computer Networking** (Short & Crisp)  
-  🔗 https://youtu.be/3QhU9jd03a0 (Crash Course #28) :contentReference[oaicite:2]{index=2}
+  🔗 https://youtu.be/3QhU9jd03a0 (Crash Course #28) 
 - **Networking Basics in ~25 Minutes**  
-  🔗 https://youtu.be/DYgRqIeuwVQ :contentReference[oaicite:3]{index=3}
+  🔗 https://youtu.be/DYgRqIeuwVQ 
 - **Full Beginner Computer Networking**  
-  🔗 https://youtu.be/0PbTi_Prpgs :contentReference[oaicite:4]{index=4}
+  🔗 https://youtu.be/0PbTi_Prpgs 
 
 📌 Tip: Use 2× speed if you are short on time.
 
 ### 📄 Must-Read Blogs — Day 1
 - **GeeksforGeeks Computer Networks Tutorial**  
-  📎 https://www.geeksforgeeks.org/computer-networks/computer-network-tutorials/ :contentReference[oaicite:5]{index=5}
+  📎 https://www.geeksforgeeks.org/computer-networks/computer-network-tutorials/ 
 - **TCP/IP & OSI Model Explanation (CCNA Blog)**  
-  📎 https://ccnablog.com/tcpip-and-the-osi-model/ :contentReference[oaicite:6]{index=6}
+  📎 https://ccnablog.com/tcpip-and-the-osi-model/
 
 ---
 
@@ -56,7 +56,7 @@ Study all layers briefly:
 ### 🚦 5. Network Layer & Routing
 - What is routing?  
 - Static vs dynamic routing  
-- Common routing protocols: RIP, OSPF, BGP (basic idea) :contentReference[oaicite:7]{index=7}
+- Common routing protocols: RIP, OSPF, BGP (basic idea) 
 
 ### 🔧 6. Application Layer Protocols
 Study common protocols:
@@ -76,18 +76,17 @@ Study common protocols:
 
 ### 📺 Recommended Videos — Day 2
 - **TCP/IP Made Super Easy (Detailed)**  
-  🔗 https://youtu.be/LUxeuFz_GQo :contentReference[oaicite:8]{index=8}
+  🔗 https://youtu.be/LUxeuFz_GQo
 - **Complete Networking Guide (Full Explained)**  
-  🔗 https://youtu.be/ssQaCpfc4uo :contentReference[oaicite:9]{index=9}
+  🔗 https://youtu.be/ssQaCpfc4uo 
 - **Deep OSI Model + Internet Works**  
-  🔗 https://youtu.be/IPvYjXCsTg8 :contentReference[oaicite:10]{index=10}
+  🔗 https://youtu.be/IPvYjXCsTg8 
 
 ### 📄 Must-Read Blogs — Day 2
 - **IP Addressing + Subnets (GeeksforGeeks)**  
-  📎 https://www.geeksforgeeks.org/computer-networks/computer-network-tutorials/ :contentReference[oaicite:11]{index=11}  
+  📎 https://www.geeksforgeeks.org/computer-networks/computer-network-tutorials/  
 - **CCNA Blog on OSI vs TCP/IP**  
-  📎 https://ccnablog.com/tcpip-and-the-osi-model/ :contentReference[oaicite:12]{index=12}
-
+  📎 https://ccnablog.com/tcpip-and-the-osi-model/ 
 ---
 
 ## 🧠 Optional (If time remains)
@@ -133,4 +132,4 @@ Study common protocols:
 
 Happy studying! 💪  
 Master this in 2 days with focused intensity — you will *understand networking fundamentals confidently*.
-::contentReference[oaicite:14]{index=14}
+
