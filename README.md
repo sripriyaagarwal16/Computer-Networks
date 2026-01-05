@@ -126,7 +126,7 @@ Study common protocols:
 ## 📌 Bonus Learning Resources (Channels)
 - **David Bombal (Networking + Labs)**
 - **NetworkChuck** (Beginner friendly)
-- **Level1Techs** (Deep tech perspective) :contentReference[oaicite:13]{index=13}
+- **Level1Techs** (Deep tech perspective)
 
 ---
 
