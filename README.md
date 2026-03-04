@@ -1,39 +1,39 @@
-# 🧠 Computer Networks — 2-Day Study Plan
+#  Computer Networks  2-Day Study Plan
 
-## 📌 Objective
+##  Objective
 Gain strong foundational understanding of Computer Networks in **2 days** — enough to *understand, revise, and explain basic concepts* for exams or interviews.
 
 ---
 
-## 🗓 Day 1 — **Foundations & Core Concepts**
+##  Day 1 — **Foundations & Core Concepts**
 
-### 🧱 1. What is Networking?
+###  1. What is Networking?
 - Definition and purpose of networks  
 - Types of networks (LAN, WAN, MAN, PAN)  
 - Network devices: routers, switches, hubs  
 - How the Internet works (client-server model)
 
-### 📊 2. OSI & TCP/IP Models
+### 2. OSI & TCP/IP Models
 Study all layers briefly:
 - OSI Model: 7 layers  
 - TCP/IP Model: 4 or 5 layers  
 - Compare differences between OSI vs TCP/IP
 
-👉 These models are essential — every networking question refers back to them.
+ These models are essential — every networking question refers back to them.
 
-### 🌐 3. IP Addressing & Subnetting
+###  3. IP Addressing & Subnetting
 - IPv4 vs IPv6  
 - Subnet masks  
 - Public vs private IP  
 - Basic subnetting logic
 
-### 📦 4. Transport Layer Protocols
+###  4. Transport Layer Protocols
 - TCP vs UDP  
 - 3-way handshake (TCP)  
 - Ports and sockets basics 
 
-### 📺 Recommended Videos — Day 1
-#### 🎥 Crash & Core Fundamentals
+###  Recommended Videos — Day 1
+#### Crash & Core Fundamentals
 - **Crash Course Computer Networking** (Short & Crisp)  
   🔗 https://youtu.be/3QhU9jd03a0 (Crash Course #28) 
 - **Networking Basics in ~25 Minutes**  
@@ -43,7 +43,7 @@ Study all layers briefly:
 
 📌 Tip: Use 2× speed if you are short on time.
 
-### 📄 Must-Read Blogs — Day 1
+###  Must-Read Blogs — Day 1
 - **GeeksforGeeks Computer Networks Tutorial**  
   📎 https://www.geeksforgeeks.org/computer-networks/computer-network-tutorials/ 
 - **TCP/IP & OSI Model Explanation (CCNA Blog)**  
@@ -53,28 +53,28 @@ Study all layers briefly:
 
 ## 📅 Day 2 — **Protocols, Routing, & Advanced Concepts**
 
-### 🚦 5. Network Layer & Routing
+###  5. Network Layer & Routing
 - What is routing?  
 - Static vs dynamic routing  
 - Common routing protocols: RIP, OSPF, BGP (basic idea) 
 
-### 🔧 6. Application Layer Protocols
+### 6. Application Layer Protocols
 Study common protocols:
 - **HTTP/HTTPS**  
 - **DNS**  
 - **FTP/SMTP/POP3/IMAP**
 
-### 🔒 7. Network Security Essentials
+### 7. Network Security Essentials
 - Firewalls, encryption basics  
 - Authentication  
 - Basic security threats — overview
 
-### 📶 8. Wireless + Modern Networking
+###  8. Wireless + Modern Networking
 - Wi-Fi basics  
 - Bluetooth / Wireless standards  
 - Basics of cloud networking
 
-### 📺 Recommended Videos — Day 2
+### Recommended Videos — Day 2
 - **TCP/IP Made Super Easy (Detailed)**  
   🔗 https://youtu.be/LUxeuFz_GQo
 - **Complete Networking Guide (Full Explained)**  
@@ -89,20 +89,20 @@ Study common protocols:
   📎 https://ccnablog.com/tcpip-and-the-osi-model/ 
 ---
 
-## 🧠 Optional (If time remains)
+##  Optional (If time remains)
 
-### 🛠 Hands-On Practice
+###  Hands-On Practice
 - Use tools like **Packet Tracer** or **GNS3** for visual networking basics  
 - Try simple ping/traceroute & IP config on your laptop
 
-### 📥 Summary Cheat Sheets
+### Summary Cheat Sheets
 - Draw OSI/TCP diagrams  
 - Write quick flashcards (protocols, ports)
 - Memorize layer responsibilities
 
 ---
 
-## 🧩 Quick Concepts Checklist
+## Quick Concepts Checklist
 
 ✔ OSI & TCP/IP Layers  
 ✔ TCP vs UDP & 3-way handshake  
@@ -114,7 +114,7 @@ Study common protocols:
 
 ---
 
-## 🚀 Study Tips
+## Study Tips
 
 ✅ Watch all videos on 1.5–2× speed  
 ✅ Use blog articles only for **definitions & short explanations**  
@@ -123,13 +123,13 @@ Study common protocols:
 
 ---
 
-## 📌 Bonus Learning Resources (Channels)
+##  Bonus Learning Resources (Channels)
 - **David Bombal (Networking + Labs)**
 - **NetworkChuck** (Beginner friendly)
 - **Level1Techs** (Deep tech perspective)
 
 ---
 
-Happy studying! 💪  
-Master this in 2 days with focused intensity — you will *understand networking fundamentals confidently*.
+Happy studying! 
+Master this in 2 days with focused intensity you will *understand networking fundamentals confidently*.
 
